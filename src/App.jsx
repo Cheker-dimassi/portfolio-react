@@ -1,5 +1,6 @@
 import Nav from './components/Nav'
+import Hero from './components/Hero'
 
 export default function App() {
-  return <><Nav /><main className="wrap"><h1>Cheker Dimassi</h1></main></>
+  return <><Nav /><Hero /></>
 }
